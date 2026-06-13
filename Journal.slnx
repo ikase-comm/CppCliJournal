@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DecryptionJournal/DecryptionJournal.vcxproj" Id="cd0b4753-e57f-4f60-93f2-109e42495cee" />
+  <Project Path="Journal/Journal.vcxproj" Id="e7ea2b49-7127-43eb-b3d1-97f1b9bfc2cb" />
+  <Project Path="SafeEnv/SafeEnv.vcxproj" Id="dda9061d-3349-452e-abb6-02f63d6b4b3b" />
+</Solution>
